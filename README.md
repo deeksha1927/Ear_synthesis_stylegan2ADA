@@ -32,7 +32,7 @@ conda env create -f environment.yml
 2.) Run the following bash script to generate synthesis images with different noise intensities:
 
 ``
-./generate.sh
+./generate_images.sh
 ``
 
 ***Note: Make sure you have provided all the valid paths in the script.***
