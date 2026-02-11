@@ -1,4 +1,4 @@
-###EYE Image Synthesis
+### EYE Image Synthesis
 
 ## Obtaining the Trained Model Weights
 The trained model weights can be downloaded at [network-snapshot-025000.pkl](https://drive.google.com/drive/folders/16IgnUHyMQpotSMyCyJJJNJTCpt7c2DGe?usp=share_link).
